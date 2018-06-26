@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Beyond Good and Evil",
-  "type": "text"
+  "type": "text",
+  "book_id": 581
 }
